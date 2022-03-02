@@ -1,0 +1,37 @@
+body{
+    background: rgb(22, 20, 20);
+
+}
+
+p{
+    font-size: medium;
+    font-style: normal;
+    font-family: monospace;
+    color: white;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+}
+
+h1{
+    color: orange;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.kotak{
+    padding: 50px;
+    width: 100px;
+    color: #fff;
+    margin: 20px;
+    background: rgb(232, 248, 3);
+}
+
+#kotak{
+    width: 400px;
+    color: #fff;
+    background: rgb(249, 253, 9);
+    padding: 50px;
+}
